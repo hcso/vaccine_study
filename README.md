@@ -1,7 +1,8 @@
 
 # Study on association of COVID-19 vaccination with risks of hospitalization and mortality due to cardiovascular and other diseases
 
-#Abstract 
+# Abstract 
+
 **Background**   Vaccines for COVID-19 represent a breakthrough in the fight against the pandemic. However, worries about adverse effects have led to vaccine hesitancy in some people. On the other hand, as COVID-19 may be associated with a range of sequelae, it is possible that vaccines may protect against hospitalization and mortality of various diseases.
 
 **Methods**    We leveraged a large prospective cohort, the UK-Biobank (UKBB), and studied associations of at least one dose of COVID-19 vaccination (BioNTech or Oxford-AstraZeneca) with hospitalization and mortalities from cardiovascular and other diseases (N=180,727). Multivariable Cox and Poisson regression was conducted controlling for main confounders. For hospitalizations, we also conducted separate analysis for new-onset and recurrent cases. All-cause and cardiovascular mortality were also included as outcome. 
