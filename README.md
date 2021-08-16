@@ -1,5 +1,5 @@
 
-# Study on association of COVID-19 vaccination with risks of hospitalization and mortality due to cardiovascular and other diseases
+# Association of COVID-19 vaccination with risks of hospitalization and mortality due to cardiovascular and other diseases: A study of the UK Biobank
 
 # Abstract 
 
